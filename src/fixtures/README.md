@@ -3,7 +3,7 @@
 Fixture content is content (and data) that is meant to look very similar
 to the real content, but exists for the benefit of testing functionality.
 
-In its simplest form, code and content is intricately linked, and oftentimes
+In its simplest form, code and content are intricately linked, and oftentimes
 to be able to have automated testing of functionality, you need some content
 to exercise that functionality.
 
